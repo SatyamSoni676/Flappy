@@ -187,6 +187,6 @@ while True:
 	if floor_x_pos <= -576:
 		floor_x_pos = 0
 	
-
+#display
 	pygame.display.update()
 	clock.tick(120)
